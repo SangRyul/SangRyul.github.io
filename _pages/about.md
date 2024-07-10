@@ -22,6 +22,6 @@ I am Sangryul Kim, currently a `Master's Student` at [XFACT](https://xfact.net/)
 * NLP applications using LLM
 
 
-I majored in Computer Science and Engineering at [Chung-Ang University](https://neweng.cau.ac.kr/index.do) and minored in Applied Statistics. During my university studies, I also worked as a Software Engineer in the [IMQA](https://www.imqa.io/en/) team at [ONYCOM INC.](http://www.onycom.com/en/main.do) in the field of making web applicaitons, which sparked my interest not only in research but also in actual development. In the future, I want to experience the process of turning research into real products for users. :sparkles:
+I majored in Computer Science and Engineering at Chung-Ang University and minored in Applied Statistics. During my university studies, I also worked as a Software Engineer in the [IMQA](https://www.imqa.io/en/) team at [ONYCOM INC.](http://www.onycom.com/en/main.do) in the field of making web applicaitons, which sparked my interest not only in research but also in actual development. In the future, I want to experience the process of turning research into real products for users. :sparkles:
 
 
