@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: sangryul(at)kaist.ac.kr / ksl970330(at)naver.com.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Sangryul Kim, currently a `Master's Student` at [XFACT](https://xfact.net/) lab in [KAIST AI](https://gsai.kaist.ac.kr/). Before joining here, I interned as a machine learning engineer at [NAVER WEBTOON](https://www.webtoons.com/en/). My main interests are `LLM` and `Reasoning`, with a focus on related downstream tasks such as `Retrieval` and `QA`, but I am not limited to specific topics. The topics I have worked on are as follows:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+* Filtering unnecessary information in search systems with alignment tuning
+* Analyzing model's confidence from the token likelihood perspective of language models
+* NLP applications using LLM
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I majored in Computer Science and Engineering at [Chung-Ang University](https://neweng.cau.ac.kr/index.do) and minored in Applied Statistics. During my university studies, I also worked as a Software Engineer in the [IMQA](https://www.imqa.io/en/) team at [ONYCOM INC.](http://www.onycom.com/en/main.do) in the field of making web applicaitons, which sparked my interest not only in research but also in actual development. In the future, I want to experience the process of turning research into real products for users. :sparkles:
+
+
