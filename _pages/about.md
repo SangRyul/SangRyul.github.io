@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Sangryul Kim, currently a `Master's Student` at [XFACT](https://xfact.net/) lab in [KAIST AI](https://gsai.kaist.ac.kr/). Before joining here, I interned as a machine learning engineer at [NAVER WEBTOON](https://www.webtoons.com/en/). My main interests are `LLM` and `Reasoning`, with a focus on related downstream tasks such as `Retrieval` and `QA`, but I am not limited to specific topics. The topics I have worked on are as follows:
+I am Sangryul Kim, currently a `Master's Student` at [XFACT](https://xfact.net/) lab in [KAIST AI](https://gsai.kaist.ac.kr/). Before joining here, I was an intern as a machine learning engineer at [NAVER WEBTOON](https://www.webtoons.com/en/). My main interests are `LLM` and `Reasoning`, with a focus on related downstream tasks such as `Retrieval` and `QA`, but I am not limited to specific topics. The topics I have worked on are as follows:
 
 * Filtering unnecessary information in search systems with alignment tuning
 * Analyzing model's confidence from the token likelihood perspective of language models
