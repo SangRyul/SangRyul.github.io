@@ -12,6 +12,6 @@ related_posts: false
 
 Further details will be updated after the final publication.
 
-* [Context Filtering with Reward Modeling in Question Answering](https://openreview.net/pdf/9a523ebd9ec69d225671d4ac583e40c8cd9577d8.pdf)
+* [Context Filtering with Reward Modeling in Question Answering](https://arxiv.org/abs/2412.11707)
 * Leveraging LLM-Generated Schema Descriptions for Unanswerable Question Detection in Clinical Data
 
