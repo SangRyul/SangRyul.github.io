@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: sangryul(at)kaist.ac.kr / ksl970330(at)naver.com.
+subtitle: Machine Learning Engineer at NAVER · ksl970330(at)naver.com
 
 profile:
   align: right
@@ -24,11 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Sangryul Kim, currently a `Master's Student` at [XFACT](https://xfact.net/) lab in [KAIST AI](https://gsai.kaist.ac.kr/). Before joining here, I was an intern as a machine learning engineer at [NAVER WEBTOON](https://www.webtoons.com/en/). My main interests are `LLM` and `Reasoning`, with a focus on related downstream tasks such as `Retrieval` and `QA`, but I am not limited to specific topics. The topics I have worked on are as follows:
+I am Sangryul Kim, a `Machine Learning Engineer` at [NAVER](https://www.navercorp.com/en). I work on `Agentic AI` for the NAVER app's content feeds: LLM agents that plan and critique personalized feeds, and LLM/VLM-based evaluation pipelines that judge feed content quality and feed the results back into production ranking. Alongside this, I build the `Retrieval` and `Ranking` components that decide what users see in the feed.
 
-* Filtering unnecessary information in search systems with alignment tuning
-* Analyzing model's confidence from the token likelihood perspective of language models
-* NLP applications using LLM
+What I currently focus on:
 
+* Agentic systems for feed personalization, such as planner and judge agents that propose and evaluate feed compositions
+* LLM/VLM-as-a-judge evaluation pipelines running in production, from rubric design to monitoring and alerts
+* Retrieval and ranking for large-scale recommendation feeds, validated through A/B testing
+* Working closely with product and content-policy teams to turn their requirements into evaluation criteria and shipped features
 
-I majored in Computer Science and Engineering at Chung-Ang University and minored in Applied Statistics. During my university studies, I also worked as a Software Engineer in the [IMQA](https://www.imqa.io/en/) team at [ONYCOM INC.](http://www.onycom.com/en/main.do) in the field of making web applicaitons, which sparked my interest not only in research but also in actual development. In the future, I want to experience the process of turning research into real products for users. :sparkles:
+Before joining NAVER, I received my M.S. in AI from [KAIST](https://gsai.kaist.ac.kr/) (Feb. 2025), advised by Prof. James Thorne at [XFACT](https://xfact.net/) lab. My research focused on `Retrieval`, `RAG` and `QA`, including context filtering with reward modeling and generative retrieval. I was also a machine learning engineer intern at [NAVER WEBTOON](https://www.webtoons.com/en/).
+
+I majored in Computer Science and Engineering at Chung-Ang University and minored in Applied Statistics. During my university studies, I also worked as a Software Engineer in the [IMQA](https://www.imqa.io/en/) team at [ONYCOM INC.](http://www.onycom.com/en/main.do), building web applications, which sparked my interest in turning research into real products for users. :sparkles:
