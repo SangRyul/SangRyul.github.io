@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Join [XFACT](https://xfact.net/) Lab at KAIST AI as a Master student.
+Joined the [XFACT](https://xfact.net/) lab at KAIST AI as a master's student.

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 1 paper accepted to Clinical NLP workshop at NAACL 2024
+title: One paper accepted to the Clinical NLP workshop at NAACL 2024
 date: 2024-04-30 07:59:00-0400
 inline: false
 related_posts: false
 ---
-1 paper accepted to Clinical NLP workshop at NAACL 2024
+One paper accepted to the Clinical NLP workshop at NAACL 2024.
 
 ---
 ### Paper list

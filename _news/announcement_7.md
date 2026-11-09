@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [NAVER](https://www.navercorp.com/en) as a Machine Learning Engineer, working on agentic AI and LLM-based evaluation for the NAVER app feeds.
+Joined [NAVER](https://www.navercorp.com/en) as a Machine Learning Engineer, building LLM evaluation systems and, later, agent prototypes for the NAVER app feeds.
