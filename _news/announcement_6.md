@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received my M.S. in AI from [KAIST](https://gsai.kaist.ac.kr/) ([XFACT](https://xfact.net/) lab).
+Received my M.S. in AI from [KAIST](https://gsai.kaist.ac.kr/) ([XFACT](https://github.com/xfactlab) lab).

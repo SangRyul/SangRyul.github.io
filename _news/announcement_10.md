@@ -1,11 +1,11 @@
 ---
 layout: post
-title: One paper accepted to Findings of ACL 2025
+title: One paper published in Findings of ACL 2025.
 date: 2025-07-28 07:59:00-0400
 inline: false
 related_posts: false
 ---
-One paper accepted to Findings of ACL 2025.
+One paper published in Findings of ACL 2025.
 
 ---
 ### Paper list

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One paper accepted to Findings of EACL 2024
+title: One paper accepted to Findings of EACL 2024.
 date: 2024-01-18 07:59:00-0400
 inline: false
 related_posts: false
